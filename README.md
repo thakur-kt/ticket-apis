@@ -27,3 +27,4 @@ This project provides a RESTful API for managing users and tickets. It is built 
    cd ticket-please
 
    ##php artisan scribe:generate
+   # Then visit: http://localhost:8000/docs
